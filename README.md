@@ -1,2 +1,8 @@
 # Bank-Loan-of-Customers-Analysis
-This repository contains a Finance domain data analysis project focused on evaluating bank loan data of customers. The analysis aims to provide actionable insights into loan performance, credit risk, and customer segmentation, supporting data-driven decision-making in the banking and financial services sector.
+## 📌 Project Overview
+This project analyzes bank loan data to understand customer borrowing behavior, loan performance, and repayment trends. The analysis is performed using financial datasets and focuses on key metrics that help assess credit risk and operational efficiency in the banking sector.
+## 🏦 Domain
+Finance
+## 📁 Datasets
+The project uses the following datasets:
+
