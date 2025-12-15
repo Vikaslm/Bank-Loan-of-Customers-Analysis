@@ -22,3 +22,14 @@ which is a cleaned and merged file of 2 datasets Finance 1 and Finance 2
 ### 5️⃣ Home Ownership vs Last Payment Date Analysis
 - Examines repayment timelines based on home ownership categories.
 
+## 🛠️ Tools & Technologies
+- Microsoft Excel  
+https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/Excel%20Dashboard.png
+- Power BI /
+https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/PowerBI%20report%201.png
+https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/PowerBI%20report%202.png
+- Tableau 
+https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/Tableau%20Dashboard.png
+- SQL 
+
+
