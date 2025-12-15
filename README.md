@@ -23,11 +23,15 @@ which is a cleaned and merged file of 2 datasets Finance 1 and Finance 2
 - Examines repayment timelines based on home ownership categories.
 
 ## 🛠️ Tools & Technologies
-- Microsoft Excel <img width="1622" height="632" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/29a2e73d-11d1-4a32-9a9e-0d79bcded281" />
-- Power BI <img width="1165" height="650" alt="PowerBI report 1" src="https://github.com/user-attachments/assets/a6a434a1-cb44-42cc-bca3-35463e6b624a" />
+- ### Microsoft Excel <img width="1622" height="632" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/29a2e73d-11d1-4a32-9a9e-0d79bcded281" />
+
+- ### Power BI Report 1 <img width="1165" height="650" alt="PowerBI report 1" src="https://github.com/user-attachments/assets/a6a434a1-cb44-42cc-bca3-35463e6b624a" />
+### PowerBi Report (contd.)
 <img width="1167" height="657" alt="PowerBI report 2" src="https://github.com/user-attachments/assets/e6826294-2e34-4d82-be6f-6aff5e93650b" />
-- Tableau <img width="1374" height="692" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/8f32def6-ca18-4995-ac59-a35058e77c3f" />
-- SQL [Queries](https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/Bank%20Loan%20Analytics.sql)
+
+- ### Tableau <img width="1374" height="692" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/8f32def6-ca18-4995-ac59-a35058e77c3f" />
+
+- ### SQL [Queries](https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/Bank%20Loan%20Analytics.sql)
 
 ## 📊 Key Insights
 - Year Wise total loan amount had an average growth rate of 328% (3.28X) per year
