@@ -4,7 +4,7 @@ This project analyzes bank loan data to understand customer borrowing behavior, 
 ## 🏦 Domain
 Finance
 ## 📁 Datasets
-The project uses the following [Dataset](https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/Finance.csv)
+The project uses the following [Dataset](https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/data/Finance.csv)
 which is a cleaned and merged file of 2 datasets Finance 1 and Finance 2
 ##   KPIs
 ### 1️⃣ Year-wise Loan Amount Statistics
@@ -31,7 +31,7 @@ which is a cleaned and merged file of 2 datasets Finance 1 and Finance 2
 
 - ### Tableau <img width="1374" height="692" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/8f32def6-ca18-4995-ac59-a35058e77c3f" />
 
-- ### SQL [Queries](https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/Bank%20Loan%20Analytics.sql)
+- ### SQL [Queries](https://github.com/Vikaslm/Bank-Loan-of-Customers-Analysis/blob/main/sql/Bank%20Loan%20Analytics.sql)
 
 ## 📊 Key Insights
 - Year Wise total loan amount had an average growth rate of 328% (3.28X) per year
